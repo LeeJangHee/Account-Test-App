@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Account-Test-App</string>
+    <string name="account_name">Account-Test-Name</string>
+    <string name="account_type">com.example.account_test_app</string>
 </resources>
